@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SafeBite Radar",
+  "description": "AI-powered food safety radar. Detects your location, analyzes restaurant reviews for health risks (poisoning, hygiene), and aggregates crowdsourced symptom reports.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
